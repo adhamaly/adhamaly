@@ -1,6 +1,6 @@
 - I’m Adham Aly, a software engineer with 4+ years of experience in various domains, such as backend, full stack, and embedded systems.
 - Passionate about building scalable and efficient software solutions.
-- Experienced in modern technologies including NestJS, Neo4j, MongoDB, PostgreSQL, Docker, AWS, and ReactJS.
+- Experienced in modern technologies including NestJS, Neo4j, MongoDB, PostgreSQL, Docker, AWS, ReactJS and Python.
 - Proficient in designing and implementing RESTful APIs, microservices architecture, and cloud-based solutions.
 - Strong advocate of clean code practices, test-driven development (TDD), and continuous integration/continuous deployment (CI/CD).
 - Enthusiastic about contributing to open-source projects and collaborating with the developer community.
