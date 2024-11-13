@@ -4,4 +4,4 @@
 - Proficient in designing and implementing RESTful APIs, microservices architecture, and cloud-based solutions.
 - Strong advocate of clean code practices, test-driven development (TDD), and continuous integration/continuous deployment (CI/CD).
 - Enthusiastic about contributing to open-source projects and collaborating with the developer community.
-- Follow me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
+- Follow me on [LinkedIn](https://www.linkedin.com/in/adham-aly-2755a0147/).
